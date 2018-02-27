@@ -30,3 +30,5 @@ def nyc_pigeon_organizer(data)
     end
   end
 end
+
+nyc_pigeon_organizer(pigeon_data)
