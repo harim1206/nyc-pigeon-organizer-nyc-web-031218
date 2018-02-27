@@ -18,6 +18,7 @@ def pigeon_data
       "City Hall" => ["Andrew"]
     }
   }
+end
 
 def nyc_pigeon_organizer(data)
   data.each_with_object({}) do |(key, h), result|
