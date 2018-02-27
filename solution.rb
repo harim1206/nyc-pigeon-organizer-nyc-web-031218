@@ -1,4 +1,3 @@
-
 require 'pry'
 def pigeon_data
   pigeon_data = {
